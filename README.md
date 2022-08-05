@@ -13,7 +13,10 @@ run ```nix_tts_api.ipynb``` on colab and copy the url and past in ```my_clinet.p
 
 <br>
 
+ <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bmox/chat-bot-light/blob/main/blender_bo_small_t_90mb_with_gradio_api.ipynb)
 
+<br>
 ---
 ## Step 2 :
 ```
